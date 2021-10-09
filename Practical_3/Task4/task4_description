@@ -1,0 +1,3 @@
+In this part weare going to  explains the correct way to input multiline character from the user.
+
+Instead  of (cin) function that  only takes one or more correctly the first chracter of the string. In order to counter this problem, we use getline function.
